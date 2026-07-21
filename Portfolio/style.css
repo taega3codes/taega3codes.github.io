@@ -1,0 +1,12 @@
+body {
+    background-color: grey;
+    padding: 20px;
+    text-align: center;
+    font-family: sans-serif;
+}
+ul {
+    text-align: left;
+}
+h1 {
+    font-family: arial;
+}
