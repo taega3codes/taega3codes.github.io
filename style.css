@@ -7,6 +7,6 @@ body {
 ul {
     text-align: left;
 }
-h1 {
-    font-family: arial;
+hr {
+    border-color: black;
 }
