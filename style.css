@@ -10,3 +10,9 @@ ul {
 hr {
     border-color: black;
 }
+a:hover {
+    color: black;
+}
+a:active {
+    color: white;
+}
